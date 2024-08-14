@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+datasnap/__init__.py
+datasnap/core.py
+datasnap.egg-info/PKG-INFO
+datasnap.egg-info/SOURCES.txt
+datasnap.egg-info/dependency_links.txt
+datasnap.egg-info/requires.txt
+datasnap.egg-info/top_level.txt
+tests/test_core.py
